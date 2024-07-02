@@ -1,0 +1,15 @@
+D:\CSE\dotNet\LabelPrac\bin\Debug\net8.0\LabelPrac.exe
+D:\CSE\dotNet\LabelPrac\bin\Debug\net8.0\LabelPrac.deps.json
+D:\CSE\dotNet\LabelPrac\bin\Debug\net8.0\LabelPrac.runtimeconfig.json
+D:\CSE\dotNet\LabelPrac\bin\Debug\net8.0\LabelPrac.dll
+D:\CSE\dotNet\LabelPrac\bin\Debug\net8.0\LabelPrac.pdb
+D:\CSE\dotNet\LabelPrac\obj\Debug\net8.0\LabelPrac.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSE\dotNet\LabelPrac\obj\Debug\net8.0\LabelPrac.AssemblyInfoInputs.cache
+D:\CSE\dotNet\LabelPrac\obj\Debug\net8.0\LabelPrac.AssemblyInfo.cs
+D:\CSE\dotNet\LabelPrac\obj\Debug\net8.0\LabelPrac.csproj.CoreCompileInputs.cache
+D:\CSE\dotNet\LabelPrac\obj\Debug\net8.0\LabelPrac.sourcelink.json
+D:\CSE\dotNet\LabelPrac\obj\Debug\net8.0\LabelPrac.dll
+D:\CSE\dotNet\LabelPrac\obj\Debug\net8.0\refint\LabelPrac.dll
+D:\CSE\dotNet\LabelPrac\obj\Debug\net8.0\LabelPrac.pdb
+D:\CSE\dotNet\LabelPrac\obj\Debug\net8.0\LabelPrac.genruntimeconfig.cache
+D:\CSE\dotNet\LabelPrac\obj\Debug\net8.0\ref\LabelPrac.dll

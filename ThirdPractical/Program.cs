@@ -1,4 +1,6 @@
-﻿namespace ThirdPractical
+﻿using System.Reflection.Emit;
+
+namespace ThirdPractical
 {
     class Program {
         static void Main(string[] args)
