@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "prac-2", "prac-2", "{0A0D94
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pract-2", "prac-2\pract-2\pract-2.csproj", "{6800A8CB-A1C9-43E4-AFCD-1C775DB69A89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdPractical", "ThirdPractical\ThirdPractical.csproj", "{1BC229B3-4DC0-4BE2-83E0-EE91E0264BCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{6800A8CB-A1C9-43E4-AFCD-1C775DB69A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6800A8CB-A1C9-43E4-AFCD-1C775DB69A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6800A8CB-A1C9-43E4-AFCD-1C775DB69A89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BC229B3-4DC0-4BE2-83E0-EE91E0264BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BC229B3-4DC0-4BE2-83E0-EE91E0264BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BC229B3-4DC0-4BE2-83E0-EE91E0264BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BC229B3-4DC0-4BE2-83E0-EE91E0264BCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{6800A8CB-A1C9-43E4-AFCD-1C775DB69A89} = {0A0D9400-1C58-4CD3-BE03-67688F2FE437}

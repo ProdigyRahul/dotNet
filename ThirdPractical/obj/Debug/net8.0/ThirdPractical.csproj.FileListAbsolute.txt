@@ -1,0 +1,15 @@
+D:\CSE\dotNet\ThirdPractical\bin\Debug\net8.0\ThirdPractical.exe
+D:\CSE\dotNet\ThirdPractical\bin\Debug\net8.0\ThirdPractical.deps.json
+D:\CSE\dotNet\ThirdPractical\bin\Debug\net8.0\ThirdPractical.runtimeconfig.json
+D:\CSE\dotNet\ThirdPractical\bin\Debug\net8.0\ThirdPractical.dll
+D:\CSE\dotNet\ThirdPractical\bin\Debug\net8.0\ThirdPractical.pdb
+D:\CSE\dotNet\ThirdPractical\obj\Debug\net8.0\ThirdPractical.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSE\dotNet\ThirdPractical\obj\Debug\net8.0\ThirdPractical.AssemblyInfoInputs.cache
+D:\CSE\dotNet\ThirdPractical\obj\Debug\net8.0\ThirdPractical.AssemblyInfo.cs
+D:\CSE\dotNet\ThirdPractical\obj\Debug\net8.0\ThirdPractical.csproj.CoreCompileInputs.cache
+D:\CSE\dotNet\ThirdPractical\obj\Debug\net8.0\ThirdPractical.sourcelink.json
+D:\CSE\dotNet\ThirdPractical\obj\Debug\net8.0\ThirdPractical.dll
+D:\CSE\dotNet\ThirdPractical\obj\Debug\net8.0\refint\ThirdPractical.dll
+D:\CSE\dotNet\ThirdPractical\obj\Debug\net8.0\ThirdPractical.pdb
+D:\CSE\dotNet\ThirdPractical\obj\Debug\net8.0\ThirdPractical.genruntimeconfig.cache
+D:\CSE\dotNet\ThirdPractical\obj\Debug\net8.0\ref\ThirdPractical.dll
