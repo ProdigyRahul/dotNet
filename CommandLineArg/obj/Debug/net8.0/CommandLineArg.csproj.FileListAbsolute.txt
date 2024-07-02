@@ -1,0 +1,15 @@
+D:\CSE\dotNet\CommandLineArg\bin\Debug\net8.0\CommandLineArg.exe
+D:\CSE\dotNet\CommandLineArg\bin\Debug\net8.0\CommandLineArg.deps.json
+D:\CSE\dotNet\CommandLineArg\bin\Debug\net8.0\CommandLineArg.runtimeconfig.json
+D:\CSE\dotNet\CommandLineArg\bin\Debug\net8.0\CommandLineArg.dll
+D:\CSE\dotNet\CommandLineArg\bin\Debug\net8.0\CommandLineArg.pdb
+D:\CSE\dotNet\CommandLineArg\obj\Debug\net8.0\CommandLineArg.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSE\dotNet\CommandLineArg\obj\Debug\net8.0\CommandLineArg.AssemblyInfoInputs.cache
+D:\CSE\dotNet\CommandLineArg\obj\Debug\net8.0\CommandLineArg.AssemblyInfo.cs
+D:\CSE\dotNet\CommandLineArg\obj\Debug\net8.0\CommandLineArg.csproj.CoreCompileInputs.cache
+D:\CSE\dotNet\CommandLineArg\obj\Debug\net8.0\CommandLineArg.sourcelink.json
+D:\CSE\dotNet\CommandLineArg\obj\Debug\net8.0\CommandLineArg.dll
+D:\CSE\dotNet\CommandLineArg\obj\Debug\net8.0\refint\CommandLineArg.dll
+D:\CSE\dotNet\CommandLineArg\obj\Debug\net8.0\CommandLineArg.pdb
+D:\CSE\dotNet\CommandLineArg\obj\Debug\net8.0\CommandLineArg.genruntimeconfig.cache
+D:\CSE\dotNet\CommandLineArg\obj\Debug\net8.0\ref\CommandLineArg.dll

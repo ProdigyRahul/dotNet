@@ -1,0 +1,15 @@
+D:\CSE\dotNet\StringInput\bin\Debug\net8.0\StringInput.exe
+D:\CSE\dotNet\StringInput\bin\Debug\net8.0\StringInput.deps.json
+D:\CSE\dotNet\StringInput\bin\Debug\net8.0\StringInput.runtimeconfig.json
+D:\CSE\dotNet\StringInput\bin\Debug\net8.0\StringInput.dll
+D:\CSE\dotNet\StringInput\bin\Debug\net8.0\StringInput.pdb
+D:\CSE\dotNet\StringInput\obj\Debug\net8.0\StringInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSE\dotNet\StringInput\obj\Debug\net8.0\StringInput.AssemblyInfoInputs.cache
+D:\CSE\dotNet\StringInput\obj\Debug\net8.0\StringInput.AssemblyInfo.cs
+D:\CSE\dotNet\StringInput\obj\Debug\net8.0\StringInput.csproj.CoreCompileInputs.cache
+D:\CSE\dotNet\StringInput\obj\Debug\net8.0\StringInput.sourcelink.json
+D:\CSE\dotNet\StringInput\obj\Debug\net8.0\StringInput.dll
+D:\CSE\dotNet\StringInput\obj\Debug\net8.0\refint\StringInput.dll
+D:\CSE\dotNet\StringInput\obj\Debug\net8.0\StringInput.pdb
+D:\CSE\dotNet\StringInput\obj\Debug\net8.0\StringInput.genruntimeconfig.cache
+D:\CSE\dotNet\StringInput\obj\Debug\net8.0\ref\StringInput.dll

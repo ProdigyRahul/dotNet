@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdPractical", "ThirdPrac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelPrac", "LabelPrac\LabelPrac.csproj", "{4A414DF2-68F9-4857-9EF4-684C8E8EB6EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInput", "StringInput\StringInput.csproj", "{6BAB35AE-AB86-42C9-89FE-B24957F8488B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandLineArg", "CommandLineArg\CommandLineArg.csproj", "{7BEB82D3-4D38-4652-88FB-55EC073BBDF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +42,14 @@ Global
 		{4A414DF2-68F9-4857-9EF4-684C8E8EB6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A414DF2-68F9-4857-9EF4-684C8E8EB6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A414DF2-68F9-4857-9EF4-684C8E8EB6EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BAB35AE-AB86-42C9-89FE-B24957F8488B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAB35AE-AB86-42C9-89FE-B24957F8488B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BAB35AE-AB86-42C9-89FE-B24957F8488B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BAB35AE-AB86-42C9-89FE-B24957F8488B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BEB82D3-4D38-4652-88FB-55EC073BBDF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BEB82D3-4D38-4652-88FB-55EC073BBDF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BEB82D3-4D38-4652-88FB-55EC073BBDF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BEB82D3-4D38-4652-88FB-55EC073BBDF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{6800A8CB-A1C9-43E4-AFCD-1C775DB69A89} = {0A0D9400-1C58-4CD3-BE03-67688F2FE437}
