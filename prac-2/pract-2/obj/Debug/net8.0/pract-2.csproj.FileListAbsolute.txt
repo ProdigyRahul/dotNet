@@ -1,0 +1,15 @@
+D:\CSE\dotNet\prac-2\pract-2\bin\Debug\net8.0\pract-2.exe
+D:\CSE\dotNet\prac-2\pract-2\bin\Debug\net8.0\pract-2.deps.json
+D:\CSE\dotNet\prac-2\pract-2\bin\Debug\net8.0\pract-2.runtimeconfig.json
+D:\CSE\dotNet\prac-2\pract-2\bin\Debug\net8.0\pract-2.dll
+D:\CSE\dotNet\prac-2\pract-2\bin\Debug\net8.0\pract-2.pdb
+D:\CSE\dotNet\prac-2\pract-2\obj\Debug\net8.0\pract-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSE\dotNet\prac-2\pract-2\obj\Debug\net8.0\pract-2.AssemblyInfoInputs.cache
+D:\CSE\dotNet\prac-2\pract-2\obj\Debug\net8.0\pract-2.AssemblyInfo.cs
+D:\CSE\dotNet\prac-2\pract-2\obj\Debug\net8.0\pract-2.csproj.CoreCompileInputs.cache
+D:\CSE\dotNet\prac-2\pract-2\obj\Debug\net8.0\pract-2.sourcelink.json
+D:\CSE\dotNet\prac-2\pract-2\obj\Debug\net8.0\pract-2.dll
+D:\CSE\dotNet\prac-2\pract-2\obj\Debug\net8.0\refint\pract-2.dll
+D:\CSE\dotNet\prac-2\pract-2\obj\Debug\net8.0\pract-2.pdb
+D:\CSE\dotNet\prac-2\pract-2\obj\Debug\net8.0\pract-2.genruntimeconfig.cache
+D:\CSE\dotNet\prac-2\pract-2\obj\Debug\net8.0\ref\pract-2.dll
